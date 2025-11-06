@@ -37,7 +37,7 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
 
 
-**Mark split up:**
+
 
 **PROCEDURE:**
 
@@ -46,6 +46,8 @@ b)	First open the O/P terminal & supply 5V to I/P terminal. Measure O/P Voltage 
 c)	Secondly, open I/P terminal & supply 5V to O/P terminal. Measure I/P Voltage & O/P current usingmulti-meter.
 d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
+
+**Mark split up:**
 
 
 **RESULT:**
