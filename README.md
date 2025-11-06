@@ -13,19 +13,31 @@ To calculate and verify Z parameters of a two port network using Multisim Simula
 
 A two-port network is an electrical circuit or device with two pairs of terminals. This makes possible the isolation of either a complete circuit or part of it. They are important in modeling electronic devices and system components.
 
-<img width="283" height="135" alt="image" src="https://github.com/user-attachments/assets/f5ad2e09-ff72-4033-8ac4-5cf83e907ae8" />
+**<img width="283" height="135" alt="image" src="https://github.com/user-attachments/assets/f5ad2e09-ff72-4033-8ac4-5cf83e907ae8" />**
 
-In Z parameters of a two-port, the input & output voltages V1& V2 can be expressed in terms of input & output currents I1& I2. Out of four variables (i.e V1, V2, I1, I2) V1& V2 are dependent variables whereas I1& I2 are independent variables. Thus,
-V1 = Z11I1+Z12I2	(1)
+In Z parameters of a two-port, the input & output voltages V1& V2 can be expressed in terms of input & output currents I1& I2. Out of four variables (i.e V1, V2, I1, I2) V1& V2 are dependent variables whereas I1& I2 are independent variables.
 
 
-V2 =  Z21I1 +Z22I2	(2)
+Thus,
+V1 = Z11 *I1+Z12*I2	........(1)
+
+
+V2 =  Z21*I1 +Z22*I2	........(2)
 
 
 Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are the reverse & forward transfer impedances.
  
 
+**CIRCUIT DIAGRAM:**
 
+
+
+**TABULATION:**
+
+
+
+
+**Mark split up:**
 
 **PROCEDURE:**
 
